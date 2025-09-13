@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.7.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "passport-jwt": "^4.0.1"
+  }
+}
